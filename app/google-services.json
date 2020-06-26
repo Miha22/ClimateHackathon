@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "52720417762",
+    "firebase_url": "https://climatehackthon.firebaseio.com",
+    "project_id": "climatehackthon",
+    "storage_bucket": "climatehackthon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52720417762:android:0c04bbe659b65dc0ba97bb",
+        "android_client_info": {
+          "package_name": "com.hackathon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "52720417762-1d0fui24bh69jbmjacqfoienbp13e21k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCldogATe4qWEFTpaAWOOmvaWUSQ-tnQyQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "52720417762-1d0fui24bh69jbmjacqfoienbp13e21k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
